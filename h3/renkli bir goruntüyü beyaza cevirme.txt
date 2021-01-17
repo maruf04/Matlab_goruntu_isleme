@@ -1,0 +1,3 @@
+%eşik değere ihtiyacımız var şayet 
+piksel degerei < eşik     orasını 0 larla doldur(yani siyah olacak)
+piksel degerei > eşik     orasını 1 larla doldur(yani beyaz olacak)

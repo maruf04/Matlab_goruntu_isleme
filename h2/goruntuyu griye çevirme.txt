@@ -1,0 +1,7 @@
+%renkli bir goruntüyü griye çevirme hazır fonksiyon
+
+
+>>a=imread('peppers.png');
+>>figure,imshow(a);
+>>gri-rgb2ggray(a);
+>>figure,imshow(gri);
